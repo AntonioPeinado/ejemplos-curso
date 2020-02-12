@@ -1,7 +1,9 @@
-﻿using System;
+﻿
+using System;
 using System.Data.SqlClient;
 using System.Text;
-// FUNCIONA""?????
+//este es el mio
+//sigue siendo el mio
 namespace cursonet
 {
     class Program
