@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 using System.Text;
-//este es el mio
+// FUNCIONA""?????
 namespace cursonet
 {
     class Program
